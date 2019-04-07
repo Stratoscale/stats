@@ -1,6 +1,8 @@
 Go stats handler
 ================
 
+Forked from thoas/stats master was broken, and issues opened on the problem were not answered
+
 .. image:: https://secure.travis-ci.org/thoas/stats.svg?branch=master
     :alt: Build Status
     :target: http://travis-ci.org/thoas/stats
